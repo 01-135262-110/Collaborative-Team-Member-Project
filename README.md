@@ -91,4 +91,12 @@ Each group must submit:
 
 **Instructor:** Adnan Jelani  
 **Course:** Introduction to ICT – Lab 7  
-**Semester:** Fall 2025
+**Semester:** Fall 2026
+
+# Collaborative Web Project
+
+## Group Members
+
+1. Group Leader: Abdul Rehman
+2. Teammate 1: Abdul Ahad
+
